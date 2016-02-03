@@ -37,3 +37,11 @@ ul {
 #types {
   color: #93a1a1;
 }
+
+.wrapper > .dfn {
+  background-color: #b58900;
+}
+
+p + strong {
+  color: #fff
+}
